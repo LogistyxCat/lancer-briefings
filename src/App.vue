@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Reflex Test",
           "status": "start"
         },
       ],
@@ -131,7 +131,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mayfly"
-        },
+        },/*
         {
           "callsign": "Compadre",
           "alias": 'Clint "CC" Cruz',
@@ -139,18 +139,18 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Rio Bravo"
-        },
+        },*/
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "Karrakis",
+        "year": "5018u",
+        "system": "Karrakis",
+        "gate": "Karrakis",
+        "ring": "Ring 1 // Rocky Mountain Line",
+        "headerTitle": "Karrakis",
+        "headerSubtitle": "Cavalry College",
+        "subheaderTitle": "Pre-Qualifier",
+        "subheaderSubtitle": "Calendar",
       },
       "options":{
         "eventsMarkdownPerMission": true
