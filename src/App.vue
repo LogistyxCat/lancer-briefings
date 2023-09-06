@@ -147,10 +147,10 @@ export default {
         "system": "Karrakis",
         "gate": "Karrakis",
         "ring": "Ring 1 // Rocky Mountain Line",
-        "headerTitle": "Karrakis",
+        "headerTitle": "Karrakin",
         "headerSubtitle": "Cavalry College",
         "subheaderTitle": "Pre-Qualifier",
-        "subheaderSubtitle": "Calendar",
+        "subheaderSubtitle": "Lance Damocles",
       },
       "options":{
         "eventsMarkdownPerMission": true
