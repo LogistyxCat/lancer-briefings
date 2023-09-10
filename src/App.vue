@@ -102,9 +102,9 @@ export default {
       "pilots": [
         {
           "callsign": "Raven",
-          "alias": "*****",
+          "alias": "Oriana Calystrix",
           "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
-          "corpro": "*****",
+          "corpro": "GMS",
           "frame": "*****",
           "mech": "nodata"
         },
@@ -112,7 +112,7 @@ export default {
           "callsign": "Crow",
           "alias": "*****",
           "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
-          "corpro": "*****",
+          "corpro": "GMS",
           "frame": "*****",
           "mech": "nodata"
         },
@@ -120,7 +120,7 @@ export default {
           "callsign": "Hawk",
           "alias": "*****",
           "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
-          "corpro": "*****",
+          "corpro": "GMS",
           "frame": "*****",
           "mech": "nodata"
         },
@@ -128,7 +128,7 @@ export default {
           "callsign": "Eagle",
           "alias": "*****",
           "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
-          "corpro": "*****",
+          "corpro": "GMS",
           "frame": "*****",
           "mech": "nodata"
         },/*
