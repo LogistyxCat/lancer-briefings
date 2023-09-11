@@ -101,37 +101,37 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Raven",
+          "callsign": "Nyx",
           "alias": "Oriana Calystrix",
-          "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
+          "code": "********-****-****-****-************///NDL-C-DEEP-STATION",
           "corpro": "GMS",
-          "frame": "*****",
+          "frame": "Sagarmatha",
           "mech": "nodata"
         },
         {
-          "callsign": "Crow",
-          "alias": "*****",
-          "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
+          "callsign": "Binder",
+          "alias": "Olastar Logo-Kathuri",
+          "code": "c1399799-72f1-4539-8857-0f406db03a0b//NDL-C-STONE-TELLURION",
           "corpro": "GMS",
-          "frame": "*****",
-          "mech": "nodata"
+          "frame": "Denali",
+          "mech": "Pillar of the Backline"
         },
         {
-          "callsign": "Hawk",
-          "alias": "*****",
-          "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
+          "callsign": "Savant",
+          "alias": "Ludovica",
+          "code": "888edd73-e1e5-42d2-bede-adca7762c81d//NDL-C-GOLD-CRYPT",
           "corpro": "GMS",
-          "frame": "*****",
-          "mech": "nodata"
-        },
+          "frame": "Chomolungma",
+          "mech": "Yaksha"
+        },/*
         {
           "callsign": "Eagle",
           "alias": "*****",
-          "code": "********-****-****-****-************///NDL-C-DEEP-STATION//********-****-****-****-************",
+          "code": "********-****-****-****-***********x///NDL-C-DEEP-STATION//********-****-****-****-************",
           "corpro": "GMS",
           "frame": "*****",
           "mech": "nodata"
-        },/*
+        },
         {
           "callsign": "Compadre",
           "alias": 'Clint "CC" Cruz',
