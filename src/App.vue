@@ -103,15 +103,15 @@ export default {
         {
           "callsign": "Nyx",
           "alias": "Oriana Calystrix",
-          "code": "********-****-****-****-************///NDL-C-DEEP-STATION",
+          "code": "Calystrix.Oriana:f8c1a63d-f067-486e-822d-e828caf32dec//NDL-C-SECOND-REACH",
           "corpro": "GMS",
           "frame": "Sagarmatha",
-          "mech": "nodata"
+          "mech": "Night Before Dawn"
         },
         {
           "callsign": "Binder",
           "alias": "Olastar Logo-Kathuri",
-          "code": "c1399799-72f1-4539-8857-0f406db03a0b//NDL-C-STONE-TELLURION",
+          "code": "Logo.Kathuri.Olastar:c1399799-72f1-4539-8857-0f406db03a0b//NDL-C-STONE-TELLURION",
           "corpro": "GMS",
           "frame": "Denali",
           "mech": "Pillar of the Backline"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Savant",
           "alias": "Ludovica",
-          "code": "888edd73-e1e5-42d2-bede-adca7762c81d//NDL-C-GOLD-CRYPT",
+          "code": "Ludovica:888edd73-e1e5-42d2-bede-adca7762c81d//NDL-C-GOLD-CRYPT",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Yaksha"
